@@ -1,9 +1,11 @@
 variable "project_name" {
-  type = string
+  type        = string
+  description = "Nome do projeto"
 }
 
 variable "region" {
-  type = string
+  type        = string
+  description = "Região default do projeto"
 }
 
 variable "vpc_cidr" {
