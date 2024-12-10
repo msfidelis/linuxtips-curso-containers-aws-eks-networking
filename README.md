@@ -60,8 +60,8 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_database_subnets"></a> [database\_subnets](#output\_database\_subnets) | n/a |
-| <a name="output_private_subnets"></a> [private\_subnets](#output\_private\_subnets) | n/a |
-| <a name="output_public_subnets"></a> [public\_subnets](#output\_public\_subnets) | n/a |
-| <a name="output_vpc_id"></a> [vpc\_id](#output\_vpc\_id) | n/a |
+| <a name="output_database_subnets"></a> [database\_subnets](#output\_database\_subnets) | SSM Parameters com os valores dos ID's das Subnets de Databases |
+| <a name="output_private_subnets"></a> [private\_subnets](#output\_private\_subnets) | SSM Parameters com os valores dos ID's das Subnets Privadas |
+| <a name="output_public_subnets"></a> [public\_subnets](#output\_public\_subnets) | SSM Parameters com os valores dos ID's das Subnets Públicas |
+| <a name="output_vpc_id"></a> [vpc\_id](#output\_vpc\_id) | SSM Parameter com o valor do vpc\_id |
 <!-- END_TF_DOCS -->
